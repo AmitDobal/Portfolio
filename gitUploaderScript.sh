@@ -27,7 +27,7 @@ git commit -m "$COMMIT"
 
 echo
 echo "-------------------------GIT PUSH ORIGIN MASTER-------------------------"
-git push origin main
+git push origin master
 
 echo
 echo "--------------------------------GIT LOG--------------------------------"
